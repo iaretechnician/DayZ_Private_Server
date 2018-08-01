@@ -9,4 +9,4 @@ How to use:
 		force_install_dir c:\server\dayzserver
 		app_update 33900 +validate
 		app_update 33930 +validate
-		
+	Now you can download and install the mods you will be using, DayZ, Epoch, Overwatch or all of them. You can put them in any named folder you like within the c:\server\dayzserver folder but INSIDE of each mod folder must be the "addons" folder that contains all the pbo files. Usually you just have to unzip the mods.  You need the "client" files which are the actual mods themselves and are usually named @dayz, @dayz_epoch, @dayzoverwatch.  You also need the "server" files which will contain the dayz_server.pbo and will be named @hive, @dayz_epoch_server or @dayzoverwatch_server.   To run "overpoch" you will need the client files for both Epoch and Overwatch but just the server files for Epoch.
